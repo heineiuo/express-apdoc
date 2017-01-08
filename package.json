@@ -1,0 +1,17 @@
+{
+  "name": "express-apidoc",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/heineiuo/express-apidoc",
+  "author": "heineiuo <heineiuo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apidoc": "^0.16.1",
+    "apidoc-core": "^0.7.1",
+    "markdown-it": "^8.2.2",
+    "winston": "^2.3.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
